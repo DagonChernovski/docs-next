@@ -1,5 +1,5 @@
 # Отрисовка списков
-
+<!--Кто отвечает за Codepen, замените, пожалуйста, ссылки на JS с unpkg на рабочие CDN-пакеты. Даже Codepen предлагает Vue 3: https://cdnjs.cloudflare.com/ajax/libs/vue/3.2.37/vue.global.prod.min.js-->
 <VideoLesson href="https://vueschool.io/lessons/list-rendering-in-vue-3?friend=vuejs" title="Узнайте как отрисовывать списки на Vue School">Узнайте как отрисовывать списки в бесплатном уроке Vue School</VideoLesson>
 
 ## Отображение элементов массива через `v-for`
